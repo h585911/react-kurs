@@ -6,7 +6,7 @@ export default function Header() {
     <AppBar position="static">
       <Toolbar>
         <Typography variant="h6" noWrap>
-          Daily
+          React App
         </Typography>
       </Toolbar>
     </AppBar>
